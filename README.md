@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
-<img align ="right" alt="Coding" width="400" src="https://i.gifer.com/WwUV.gif">
+<img align ="right" alt="Coding" width="400" src="![MARIO_BROS_pixel_art_real_mirando_un_planeta_de_noche_241188d8-54bd-4e62-b19e-787e8d0952bc](https://github.com/Alexander-Dheins/Alexander-Dheins/assets/55365356/14a6ac1f-e321-4e2f-9be0-1a256165d27f)
+">
 
 - 🌱 I’m currently learning **Kotlin and JS**
 
