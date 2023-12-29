@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Nodejs**
 
-- 📫 How to reach me **alexanderdheins@hotmail.com**
+- 📫 How to reach me **testdev@lexaqpdev.com**
 
 - ⚡ I like **Video games**
 
