@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Kotlin and JS**
 
-- 👨‍💻 All of my projects are available at [https://alexander-dheins.github.io/](https://alexander-dheins.github.io/)
+- 👨‍💻 All of my projects are available at [lexaqpdev.com](https://lexaqpdev.com/)
+
+- Portfolio 2022 [https://alexander-dheins.github.io/]
 
 - 💬 Ask me about **Nodejs**
 
