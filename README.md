@@ -3,9 +3,7 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 - 👨‍💻 All of my projects are available at [lexaqpdev.com]
-  
-- Portfolio 2022 [https://alexander-dheins.github.io/]
-  
+   
 - 📫 How to reach me **testdev@lexaqpdev.com**
 
 <h3 align="left">Languages and Tools:</h3>
