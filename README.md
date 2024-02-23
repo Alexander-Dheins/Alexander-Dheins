@@ -1,4 +1,4 @@
-[![MasterHead](https://lexaqpdev.com/assets/img/fond2.gif) 300px,500px]
+[![MasterHead](https://lexaqpdev.com/assets/img/fond2.gif)]
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
