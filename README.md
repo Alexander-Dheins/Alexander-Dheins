@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
-<img align ="right" alt="Coding" width="400" src="[https://cdn.discordapp.com/attachments/991697006974226483/1132075875500826715/MARIO_BROS_pixel_art_real_mirando_un_planeta_de_noche_241188d8-54bd-4e62-b19e-787e8d0952bc.png](https://cdn.discordapp.com/attachments/1142687518941257818/1210409112110764032/descarga-removebg.png?ex=65ea7454&is=65d7ff54&hm=1896822955539e012ebdf6865be2c96c54839ad5b34b986698f8080dd3cae40e&)")
+<img align ="right" alt="Coding" width="400" src="[https://cdn.discordapp.com/attachments/991697006974226483/1132075875500826715/MARIO_BROS_pixel_art_real_mirando_un_planeta_de_noche_241188d8-54bd-4e62-b19e-787e8d0952bc.png]")
 ">
 
 - 🌱 I’m currently learning **Kotlin and JS**
