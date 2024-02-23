@@ -12,4 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-dheins&show_icons=true&locale=en&layout=compact" alt="alexander-dheins" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-dheins&show_icons=true&locale=en" alt="alexander-dheins" /></p>
