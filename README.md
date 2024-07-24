@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido(a)!)
-[![MasterHead](https://lexaqpdev.com/assets/img/fondogithub.gif)
+![MasterHead](https://lexaqpdev.com/assets/img/fondogithub.gif)
 
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
