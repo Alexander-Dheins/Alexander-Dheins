@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido(a)!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!)
 ![MasterHead](https://lexaqpdev.com/assets/img/fondogithub.gif)
 
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
