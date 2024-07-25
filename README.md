@@ -24,7 +24,6 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-p-35b2a1106/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soporte.ti@lexpy.dev)](soporte.ti@lexpy.dev)
 
 </div>
 
