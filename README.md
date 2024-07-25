@@ -5,17 +5,14 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 - 👨‍💻 All of my projects are available at [https://lexpy.dev]
-   
-- 📫 How to reach me **soporte.ti@lexpy.dev**
   
 <p align="center">
 <img width="725em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexander-Dheins&theme=algolia" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Dheins&bg_color=0d1117&color=3975d0&line=0088cc&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexander-Dheins&theme=algolia" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexander-Dheins&theme=algolia" alt="Alexander Dheins Stats" /> 
   
   <img width="41%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexander-Dheins&theme=algolia" />
 </div> 
