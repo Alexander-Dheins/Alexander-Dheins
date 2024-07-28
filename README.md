@@ -28,8 +28,8 @@
 
 ```mermaid
 graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
+    Front-End-->HTML;
+    Front-End-->CSS;
     Front-End-->JavaScript;
     Front-End-->PHP;
     Front-End-->JSON;
