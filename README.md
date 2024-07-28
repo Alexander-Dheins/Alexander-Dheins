@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!)
 ![MasterHead](https://lexaqpdev.com/assets/img/fondogithub.gif)
-
+<div align="center">
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 👨‍💻 All of my projects are available at [https://lexpy.dev]
+👨‍💻 All of my projects are available at [https://lexpy.dev]
   
 <p align="center">
 <img width="725em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexander-Dheins&theme=algolia" />
@@ -17,10 +17,8 @@
   <img width="41%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexander-Dheins&theme=algolia" />
 </div> 
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=Alexander-Dheins&theme=dark&hide_border=&date_format=%5BY.%5Dn.j&mode=weekly"
-</p>
-<div align="center">
+
+
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-p-35b2a1106/)
