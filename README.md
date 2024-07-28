@@ -31,7 +31,7 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
-    Front-End-->Angular;
+    Front-End-->PHP;
     Front-End-->JSON;
     Front-End-->JQuery;
 ```
