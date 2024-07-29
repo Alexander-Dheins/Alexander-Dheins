@@ -1,5 +1,4 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!)
 ![MasterHead](https://lexaqpdev.com/assets/img/fondogithub.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alexander-Dheins" />
 <div align="center">
