@@ -1,9 +1,9 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alexander-Dheins" />
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!)
 ![MasterHead](https://lexaqpdev.com/assets/img/fondogithub.gif)
 <div align="center">
 <h1 align="center">Hi 👋, I'm Alexander Dheins</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alexander-Dheins" />
+
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 👨‍💻 All of my projects are available at [https://lexpy.dev]
